@@ -37,6 +37,7 @@ test:
     - python ={{ python_min }}
 
 about:
+  home: https://github.com/jxmorris12/language_tool_python
   summary: Checks grammar using LanguageTool.
   license: GPL-3.0
   license_file: LICENSE
