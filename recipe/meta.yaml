@@ -39,7 +39,7 @@ test:
 about:
   home: https://github.com/jxmorris12/language_tool_python
   summary: Checks grammar using LanguageTool.
-  license: GPL-3.0
+  license: GPL-3.0-or-later
   license_file: LICENSE
 
 extra:
